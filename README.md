@@ -16,8 +16,8 @@ Actualmente estoy ampliando mis conocimientos en Java, Spring Boot y Android mie
 
 ### 📌 Proyectos Destacados
 
-[![APP Recursos Humanos](https://github.com/ecalar/app-recursos-humanos)
-[![Sistema de Cuentas Bancarias](https://github.com/ecalar/SistemaCuentasBancarias)
+[APP Recursos Humanos](https://github.com/ecalar/app-recursos-humanos)
+[Sistema de Cuentas Bancarias](https://github.com/ecalar/SistemaCuentasBancarias)
 
 ---
 
