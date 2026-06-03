@@ -77,6 +77,6 @@ Planifico antes de programar, cuido la arquitectura y me obsesiona el código li
 
 ## 📫 Contacto
 
-[![Portfolio](https://img.shields.io/badge/ecalar.github.io-3b82f6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ecalar.github.io)
-[![LinkedIn](https://img.shields.io/badge/Enrique_Cala-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enrique-cala-rodr%C3%ADguez-21032491/)
-[![Email](https://img.shields.io/badge/enriquecalar@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enriquecalar@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PortFolio-3b82f6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ecalar.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enrique-cala-rodr%C3%ADguez-21032491/)
+[![Email](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enriquecalar@gmail.com)
