@@ -50,7 +50,7 @@ Planifico antes de programar, cuido la arquitectura y me obsesiona el código li
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
 | [**MiStock**](https://github.com/ecalar/MiStock) *(público)* | TFG DAM (nota 8.3). Inventario con búsqueda avanzada y alertas de stock. | Java, Swing, MySQL |
-| [**Sistema Estudiantes Spring**](https://github.com/ecalar/SistemaEstudiantesSpring) *(público)* | CRUD completo con arquitectura en capas y validaciones. | Spring Boot, JPA, Thymeleaf |
+| [**Sistema Estudiantes · Spring**](https://github.com/ecalar/SistemaEstudiantesSpring) *(público)* | CRUD completo con arquitectura en capas y validaciones. | Spring Boot, JPA, Thymeleaf |
 | [**App Recursos Humanos**](https://github.com/ecalar/app-recursos-humanos) *(público)* | Gestión de empleados y nóminas con interfaz funcional. | JavaFX, MVC, MySQL |
 | [**Gestión Carpintería**](https://github.com/ecalar/Sistema-Gestor-Carpinter-a) *(público)* | Digitalización de talleres: stock, presupuestos, clientes. | Java, Swing, MySQL |
 | [**Sistema Contactos**](https://github.com/ecalar/SistemaContactos) *(público)* | Agenda de contactos con operaciones CRUD. | Java, Swing |
@@ -83,6 +83,6 @@ Planifico antes de programar, cuido la arquitectura y me obsesiona el código li
 
 ## 📫 Contacto
 
-[![Portfolio](https://img.shields.io/badge/ecalar.github.io-3b82f6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ecalar.github.io)
-[![LinkedIn](https://img.shields.io/badge/Enrique_Cala-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enrique-cala-rodr%C3%ADguez-21032491/)
-[![Email](https://img.shields.io/badge/enriquecalar@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enriquecalar@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-3b82f6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ecalar.github.io)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enrique-cala-rodr%C3%ADguez-21032491/)
+[![Email](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enriquecalar@gmail.com)
