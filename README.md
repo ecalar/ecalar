@@ -26,7 +26,22 @@ Planifico antes de programar, cuido la arquitectura y me obsesiona el código li
 | Spring Boot        | HTML5, CSS3, Thymeleaf | IntelliJ IDEA            |
 | MySQL, SQL, JPA    | Diseño UI/UX minimalista | Git, GitHub, Planificación |
 
-*También uso: Python (básico), JavaScript (básico), .NET (fundamentos)*
+---
+
+## 🛠️ Lenguajes y herramientas que uso
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-3776AB?style=flat-square&logo=java&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat-square&logo=linux-mint&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ---
 
@@ -66,17 +81,8 @@ Planifico antes de programar, cuido la arquitectura y me obsesiona el código li
 
 ---
 
-## 📊 Actividad en GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ecalar&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecalar&layout=compact&theme=radical&hide_border=true" alt="Lenguajes" width="38%" />
-</p>
-
----
-
 ## 📫 Contacto
 
-[![Portfolio](https://img.shields.io/badge/PortFolio-3b82f6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ecalar.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enrique-cala-rodr%C3%ADguez-21032491/)
-[![Email](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enriquecalar@gmail.com)
+[![Portfolio](https://img.shields.io/badge/ecalar.github.io-3b82f6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ecalar.github.io)
+[![LinkedIn](https://img.shields.io/badge/Enrique_Cala-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enrique-cala-rodr%C3%ADguez-21032491/)
+[![Email](https://img.shields.io/badge/enriquecalar@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enriquecalar@gmail.com)
