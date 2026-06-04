@@ -53,7 +53,7 @@ Planifico antes de programar, cuido la arquitectura y me obsesiona el código li
 | [**Sistema Estudiantes · Spring**](https://github.com/ecalar/SistemaEstudiantesSpring) *(público)* | CRUD completo con arquitectura en capas y validaciones. | Spring Boot, JPA, Thymeleaf |
 | [**App Recursos Humanos**](https://github.com/ecalar/app-recursos-humanos) *(público)* | Gestión de empleados y nóminas con interfaz funcional. | JavaFX, MVC, MySQL |
 | [**Gestión Carpintería**](https://github.com/ecalar/Sistema-Gestor-Carpinter-a) *(público)* | Digitalización de talleres: stock, presupuestos, clientes. | Java, Swing, MySQL |
-| [**Sistema Contactos**](https://github.com/ecalar/SistemaContactos) *(público)* | Agenda de contactos con operaciones CRUD. | Java, Swing |
+| [**Customify**](https://github.com/ecalar/Customify) *(público)* | Configurador 3D de productos personalizables. | Java, Spring Boot |
 | [**CanaryPro**](https://github.com/ecalar/CanaryPro) *(privado)* | Software para criadores de canarios: genealogía, alimentación, clínica. | Java, Spring Boot |
 
 > 💡 Cada proyecto tiene una **página de detalle** con capturas y decisiones técnicas en mi [**portfolio**](https://ecalar.github.io).
