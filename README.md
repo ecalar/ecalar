@@ -51,9 +51,9 @@ Planifico antes de programar, cuido la arquitectura y me obsesiona el código li
 |----------|-------------|-------------|
 | [**MiStock**](https://github.com/ecalar/MiStock) *(público)* | TFG DAM (nota 8.3). Inventario con búsqueda avanzada y alertas de stock. | Java, Swing, MySQL |
 | [**Sistema Estudiantes · Spring**](https://github.com/ecalar/SistemaEstudiantesSpring) *(público)* | CRUD completo con arquitectura en capas y validaciones. | Spring Boot, JPA, Thymeleaf |
-| [**App Recursos Humanos**](https://github.com/ecalar/app-recursos-humanos) *(público)* | Gestión de empleados y nóminas con interfaz funcional. | JavaFX, MVC, MySQL |
+| [**Flowwork**](https://github.com/ecalar/flowwork) *(público)* | Plataforma de gestión de equipos con microservicios. | Java, Spring Boot, Spring Cloud, React, Docker |
 | [**Gestión Carpintería**](https://github.com/ecalar/Sistema-Gestor-Carpinter-a) *(público)* | Digitalización de talleres: stock, presupuestos, clientes. | Java, Swing, MySQL |
-| [**Customify**](https://github.com/ecalar/Customify) *(público)* | Configurador 3D de productos personalizables. | Java, Spring Boot |
+| [**Customify**](https://github.com/ecalar/Customify) *(público)* | Configurador 3D de productos personalizables. | Java, Spring Boot,  |
 | [**CanaryPro**](https://github.com/ecalar/CanaryPro) *(privado)* | Software para criadores de canarios: genealogía, alimentación, clínica. | Java, Spring Boot |
 
 > 💡 Cada proyecto tiene una **página de detalle** con capturas y decisiones técnicas en mi [**portfolio**](https://ecalar.github.io).
